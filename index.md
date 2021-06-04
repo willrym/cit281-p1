@@ -3,3 +3,5 @@
 2. List the folders in a tree-like structure
 3. Use the ping command, and practice using the break keyboard sequence
 4. Create and execute a JavaScript files using Node.js and Visual Studio Code (VSCode) terminal and Run and Debug
+
+![Sal](https://static.wikia.nocookie.net/impracticaljokers/images/d/d2/Sal.png/revision/latest/scale-to-width-down/361?cb=20190604013345)
